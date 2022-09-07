@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287399458972",
+    "project_id": "dematade-51b89",
+    "storage_bucket": "dematade-51b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287399458972:android:dd11ffcb9c9f1474619559",
+        "android_client_info": {
+          "package_name": "com.dematade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287399458972-ftob3i86bjou62f5b603bk6ilqf8erff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dematade",
+            "certificate_hash": "6c7b16b6227e2e8c6209a64662db8c327e9de28b"
+          }
+        },
+        {
+          "client_id": "287399458972-i1d7qkpbdhndnhhivpci3oebi1vq86no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcWVu2ZkqeEmV6frqaj96rXDzZnV3eD_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287399458972-i1d7qkpbdhndnhhivpci3oebi1vq86no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

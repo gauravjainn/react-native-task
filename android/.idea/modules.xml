@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeMatade.iml" filepath="$PROJECT_DIR$/.idea/modules/DeMatade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DeMatade.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DeMatade.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-732087586/DeMatade.notifee_react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-732087586/DeMatade.notifee_react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/461363767/DeMatade.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/461363767/DeMatade.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1811490697/DeMatade.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-1811490697/DeMatade.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1440334717/DeMatade.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1440334717/DeMatade.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1234314921/DeMatade.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1234314921/DeMatade.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/737705447/DeMatade.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/737705447/DeMatade.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1960543050/DeMatade.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1960543050/DeMatade.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1930508796/DeMatade.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1930508796/DeMatade.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1310557674/DeMatade.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1310557674/DeMatade.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-136976260/DeMatade.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-136976260/DeMatade.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2116756888/DeMatade.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/2116756888/DeMatade.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/858287469/DeMatade.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/858287469/DeMatade.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1354514885/DeMatade.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1354514885/DeMatade.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1844304734/DeMatade.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1844304734/DeMatade.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/613457463/DeMatade.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/613457463/DeMatade.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1980360407/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1980360407/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
